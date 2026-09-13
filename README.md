@@ -67,3 +67,4 @@ By default, logs are kept in process memory (up to 100 recent alerts) and printe
 The bot sends message text, URLs, and attachment metadata to Groq and sends URLs to Google Safe Browsing for analysis. Tell group members this before enabling it, and avoid using it in sensitive groups without an appropriate privacy policy.
 
 Text and captions can be checked for explicit content, but images and videos without a caption are not inspected. Add a specialist image/video moderation service before relying on the bot to detect media-only adult content.
+# family-inspector
